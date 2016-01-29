@@ -1,3 +1,3 @@
-# Perkulation
-#Da ist ein Rechtschreibfehler :P
-#brüsulbrumpf
+﻿# Perkolation
+# 
+# Ein Glück, dass es GitHub gibt...
